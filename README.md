@@ -9,17 +9,18 @@
 [![Profile views](https://komarev.com/ghpvc/?username=lekimchopo&label=PROFILE+VIEWS&color=0b7285&style=flat-square)](https://github.com/lekimchopo)
 [![Madrid](https://img.shields.io/badge/Madrid-Spain-111827?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/lekimchopo)
 [![Open to collaboration](https://img.shields.io/badge/OPEN_TO-COLLABORATION-16a34a?style=flat-square)](https://github.com/lekimchopo?tab=repositories)
+[![Case studies](https://img.shields.io/badge/EXPLORE-CASE_STUDIES-0e7490?style=flat-square&logo=readme&logoColor=white)](#featured-case-studies)
 
 </div>
 
 ## About me
 
-I am **Mikel Santamaría**, a junior professional working in **OT cybersecurity sales** while studying **Cybersecurity Engineering**.
+I am **Mikel Santamaría**, working in **OT cybersecurity sales** while studying **Cybersecurity Engineering**.
 
-I build practical products at the intersection of **cybersecurity, artificial intelligence, cloud platforms and user-focused software**. My approach combines technical curiosity with commercial thinking: understand the problem, design a realistic solution, protect the data and ship something useful.
+I build practical products at the intersection of **cybersecurity, applied AI, cloud platforms and user-focused software**. My approach combines technical curiosity with commercial thinking: understand the real problem, design a realistic solution, protect the data and ship something useful.
 
-- 🛡️ Focused on **OT/ICS security**, infrastructure and secure-by-design products.
-- 🤖 Building applications and local agents with **Gemini, OpenAI and LM Studio**.
+- 🛡️ Developing my expertise in **OT/ICS security**, infrastructure, identity and secure-by-design products.
+- 🤖 Building applications and local agents with **Gemini, OpenAI, LM Studio and self-hosted tooling**.
 - 🚀 Turning prototypes into deployable products with **React, TypeScript, Supabase, Vercel, Google Cloud and Shopify**.
 - 📍 Based in **Madrid, Spain**.
 
@@ -33,9 +34,7 @@ I build practical products at the intersection of **cybersecurity, artificial in
 
 ### 🛡️ Cybersecurity & OT
 
-Learning and working around industrial cybersecurity, network visibility, identity, endpoint management and risk reduction.
-
-**Current direction**
+Industrial cybersecurity, network visibility, identity, endpoint management and practical risk reduction.
 
 `OT / ICS` · `Zero Trust` · `IAM` · `Networking` · `Security Operations`
 
@@ -44,20 +43,16 @@ Learning and working around industrial cybersecurity, network visibility, identi
 
 ### 🤖 Applied AI
 
-Building useful AI features instead of isolated demos: assistants, document analysis, image understanding, recommendations and local agents.
+Assistants, document analysis, image understanding, recommendations and hybrid local/cloud agents.
 
-**Current direction**
-
-`AI Agents` · `Gemini` · `OpenAI` · `Local LLMs` · `Prompt Engineering`
+`AI Agents` · `Gemini` · `OpenAI` · `Local LLMs` · `Structured Outputs`
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 Product Building
 
-Taking ideas from initial concept to UX, architecture, testing, deployment and business validation.
-
-**Current direction**
+From initial concept to UX, architecture, testing, deployment and business validation.
 
 `Product Strategy` · `PWA` · `SaaS` · `E-commerce` · `Automation`
 
@@ -67,17 +62,27 @@ Taking ideas from initial concept to UX, architecture, testing, deployment and b
 
 ---
 
-## Selected projects
+## Featured case studies
 
-| Project | What it does | Main technologies | Status |
+These public case studies explain the problem, architecture, security decisions and lessons behind private product repositories without exposing credentials, user data or proprietary source code.
+
+| Project | Product focus | Architecture highlights | Case study |
 |---|---|---|---|
-| **MiHucha** | Personal finance PWA with transaction management, secure AI advice, recoverable snapshots and protected multi-user cloud sync. | React, TypeScript, Supabase, PostgreSQL, RLS, Gemini, Vercel | Private development |
-| **NutriSnap** | AI-assisted nutrition application focused on camera-based food analysis, tracking and visual progress. | React 19, TypeScript, Gemini, Supabase, Recharts, Capacitor | Private MVP |
-| **SubControl** | Subscription manager with savings simulations, dashboards, AI recommendations and offline PWA support. | React, TypeScript, Vite, Gemini, Recharts, Vitest | Private MVP |
-| **Block Nine** | Streetwear and e-commerce project with an editorial React prototype and a native Shopify Online Store 2.0 theme. | Shopify Liquid, React, Vite, GitHub, Shopify CLI | Pre-production |
-| **Local Agent Lab** | Personal lab for local-first agents, WhatsApp workflows and self-hosted language models. | OpenClaw, LM Studio, WSL2, Python, APIs | Active lab |
+| **MiHucha** | Personal finance, budgeting and secure AI assistance | React, Supabase Auth, PostgreSQL, RLS, server-side Gemini proxy, recoverable snapshots | [Read case study](./docs/case-studies/mihucha.md) |
+| **NutriSnap** | Camera-assisted nutrition tracking | React 19, structured AI output, Gemini multimodal, Supabase, Capacitor | [Read case study](./docs/case-studies/nutrisnap.md) |
+| **SubControl** | Subscription management and savings simulation | React, deterministic finance logic, Recharts, Gemini, Vitest, offline PWA | [Read case study](./docs/case-studies/subcontrol.md) |
+| **Block Nine** | Streetwear brand and production-ready e-commerce workflow | Shopify OS 2.0, Liquid, React prototype, controlled pre-production releases | [Read case study](./docs/case-studies/block-nine.md) |
+| **Local Agent Lab** | Private and self-hosted AI workflows | LM Studio, OpenClaw, WSL2, Linux services, WhatsApp workflows, hybrid model routing | [Read case study](./docs/case-studies/local-agent-lab.md) |
 
-> Most product repositories are private while they are being hardened, validated or prepared for release.
+> The underlying repositories remain private while they are being hardened, validated or prepared for release.
+
+---
+
+## Public work
+
+### [AI & Automation Lab](https://github.com/lekimchopo/Codex)
+
+A public repository for small, reviewable experiments around Python, security utilities, AI-assisted development and automation. It currently includes a cryptographically secure password generator and is being expanded into a better documented engineering lab.
 
 ---
 
@@ -112,6 +117,16 @@ Taking ideas from initial concept to UX, architecture, testing, deployment and b
 
 ---
 
+## Education and credentials
+
+- 🎓 **Cybersecurity Engineering** — currently studying.
+- 🖥️ **Higher Technician in Network Systems Administration (ASIR)**.
+- 🔧 **Technician in Microcomputer Systems and Networks (SMR)**.
+- 📘 **ITIL 4 Foundation** certified.
+- ☁️ **Google IT Support** training.
+
+---
+
 ## Current focus
 
 ```text
@@ -119,7 +134,7 @@ Taking ideas from initial concept to UX, architecture, testing, deployment and b
 02  Build secure AI products with measurable real-world value
 03  Improve local-first agents and private AI workflows
 04  Publish stronger technical case studies and open-source projects
-05  Grow from junior contributor into a hybrid technical-commercial profile
+05  Grow into a hybrid technical-commercial cybersecurity profile
 ```
 
 ---
